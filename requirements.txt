@@ -1,0 +1,6 @@
+jupyter
+langchain
+pandas
+sentence-transformers
+scikit-learn
+scikit-multilearn
